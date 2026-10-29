@@ -217,4 +217,4 @@ Hugin is offered as a full free version, with all features and updates included.
 Don't miss out on the chance to create breathtaking panoramas! **Download Hugin now and unleash your photography potential!**
 
 ---
-**Last updated:** 2026-10-29 19:59:31 UTC
+**Last updated:** 2026-10-29 23:50:52 UTC
